@@ -1,2 +1,2 @@
 # Cyber-Security
-This are the course on cyber security which I have done from IIT Bombay
+This are the course on cyber security which will give you a rough idea about computer security 
